@@ -18,13 +18,22 @@ It is tested on **macOS Apple Silicon (M1/M2/M3)**.
 ## 📁 Project Structure
 
 strapi-docker/
+
 ├── config/
+
 ├── database/
+
 ├── public/
+
 ├── src/
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── Dockerfile
+
 ├── .dockerignore
+
 └── README.md
 
